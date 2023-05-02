@@ -24,7 +24,7 @@ void loop() {
   float temp = Sensor1.get_temp_k();
 
   // Show the value of temperature
-  Serial.print("°K: "); Serial.println(temp);
+  Serial.print("K: "); Serial.println(temp);
 
   // Wait 1 second to update
   delay(1000);
