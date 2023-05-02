@@ -2,8 +2,8 @@
 
   CREATED BY: ALBERTO BRUNO SILVESTRE DE OLIVEIRA
 
-  GITHUB: AlbertoBruno1265
-
+  GITHUB: https://github.com/AlbertoBruno1265/LM35-Library-for-Arduino
+  
   LM35.h
 
 *****************************************************/
