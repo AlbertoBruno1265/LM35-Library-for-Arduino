@@ -24,7 +24,7 @@ class lm35
     float get_temp_c();
     float get_temp_f();
     int get_temp_k();
-    float average_temperature(int opt, int times);
+    float average_temperature(int opt=0, int times=10);
 };
 
 #endif

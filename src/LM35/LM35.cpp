@@ -35,3 +35,16 @@ int lm35::get_temp_k(){
   int temperatureK = lm35::get_temp_c() - 273;
   return temperatureK;
 }
+
+float lm35::average_temperature(int opt=0, int times=10){
+  float sum = 0;
+
+  for (int i=0; i<times; i++){
+    switch (opt) {
+      case 0: sum += lm35::get_temp_c(); break;
+      case 1: sum += lm35::get_temp_f(); break;
+      case 2: sum += lm35::get_temp_k(); break;
+    }
+  }
+  return sum/=times;
+}
