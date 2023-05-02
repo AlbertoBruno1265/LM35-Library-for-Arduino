@@ -1,0 +1,7 @@
+LM35	KEYWORD1
+lm35	KEYWORD2
+port	KEYWORD2
+get_temp_c	KEYWORD2
+get_temp_f	KEYWORD2
+get_temp_k	KEYWORD2
+average_temperature	KEYWORD2
