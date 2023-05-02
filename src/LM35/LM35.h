@@ -20,7 +20,7 @@ class lm35
 
   public:
     lm35(byte pin);
-    byte Port();
+    byte port();
     float get_temp_c();
     float get_temp_f();
     int get_temp_k();

@@ -13,8 +13,8 @@ void loop() {
   Serial.print("°K: "); Serial.println(Sensor1.get_temp_k());
   delay(1000);  
   Serial.println("----------------------------------------");
-  Serial.print("Avarage °C: "); Serial.println(Sensor1.average_temperature(0));
-  Serial.print("Avarage °F: "); Serial.println(Sensor1.average_temperature(1));
-  Serial.print("Avarage °K: "); Serial.println(Sensor1.average_temperature(2));
+  Serial.print("Avarage °C: "); Serial.println(Sensor1.average_temperature(0, 20));
+  Serial.print("Avarage °F: "); Serial.println(Sensor1.average_temperature(1, 20));
+  Serial.print("Avarage °K: "); Serial.println(Sensor1.average_temperature(2, 20));
   delay(1000);
 }

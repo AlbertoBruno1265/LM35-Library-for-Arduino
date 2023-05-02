@@ -15,7 +15,7 @@ lm35::lm35(byte pin){
   _pin = pin;
 }
 
-byte lm35::Port(){
+byte lm35::port(){
   return _pin;
 }
 
