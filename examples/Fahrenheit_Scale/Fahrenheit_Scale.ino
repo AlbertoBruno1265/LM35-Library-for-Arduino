@@ -4,7 +4,7 @@
 
   GITHUB: AlbertoBruno1265
 
-  Celsius_Scale.ino
+  Fahrenheit_Scale.ino
 
 *****************************************************/
 
@@ -20,12 +20,12 @@ void setup() {
 }
 
 void loop() {
-  // Calls the temperature method in Celsius
-  float temp = Sensor1.get_temp_c();
-  
+  // Calls the temperature method in Fahrenheit 
+  float temp = Sensor1.get_temp_f();
+
   // Show the value of temperature
-  Serial.print("°C: "); Serial.println(temp);
-  
+  Serial.print("°F: "); Serial.println(temp);
+
   // Wait 1 second to update
   delay(1000);
 }
