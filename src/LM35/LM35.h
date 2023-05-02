@@ -1,0 +1,31 @@
+/*****************************************************
+
+  CREATED BY: ALBERTO BRUNO SILVESTRE DE OLIVEIRA
+
+  GITHUB: AlbertoBruno1265
+
+  LM35.h
+
+*****************************************************/
+
+#ifndef LM35
+#define LM35
+
+#include "Arduino.h"
+
+class lm35
+{
+  private:
+    byte _pin;
+
+  public:
+    lm35(byte pin);
+    byte Port();
+    float get_temp_c();
+    float get_temp_f();
+    int get_temp_k();
+    float average_temperature(int opt, int times);
+};
+
+#endif
+ 
