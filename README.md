@@ -36,11 +36,11 @@ You can access more specifications by clicking [here](https://github.com/Alberto
 
 **2 - Click on Download ZIP**
 
-![2 - Click on Download ZIP.png](https://github.com/AlbertoBruno1265/LM35-Library-for-Arduino/blob/main/docs/How%20Install/2-%20Click%20on%20Download%20ZIP.png)
+![2 - Click on Download ZIP.png](https://github.com/AlbertoBruno1265/LM35-Library-for-Arduino/blob/main/docs/How%20Install/2%20-%20Click%20on%20Download%20ZIP.png)
 
 **3 - Open Arduino IDE**
 
-![3 - Open Arduino IDE.png](https://github.com/AlbertoBruno1265/LM35-Library-for-Arduino/blob/main/docs/How%20Install/3-%20Open%20Arduino%20IDE.png)
+![3 - Open Arduino IDE.png](https://github.com/AlbertoBruno1265/LM35-Library-for-Arduino/blob/main/docs/How%20Install/3%20-%20Open%20Arduino%20IDE.png)
 
 **4 - Go to "Sketch"**
 
