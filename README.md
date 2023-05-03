@@ -1,5 +1,4 @@
 # LM35-Library-for-Arduino
-A Library to use in arduino with LM35 temperature sensor.
 
 ## Abstract
 Library created to facilitate the use of the LM35 temperature sensor.
