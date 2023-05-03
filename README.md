@@ -14,6 +14,8 @@ Voltage = analogRead(VOUT_PIN) * (5.0 / 1023)
 Temperature = Voltage / 0.01V
 ```
 
+You can access more specifications by clicking [here](https://github.com/AlbertoBruno1265/LM35-Library-for-Arduino/tree/main/docs/Datasheet/lm35.pdf)
+
 ## Eletronic Circuit
 ![Eletronic Circuit](https://github.com/AlbertoBruno1265/LM35-Library-for-Arduino/blob/main/docs/Eletronic%20Circuit/Eletronic_Circuit.png)
 
