@@ -29,11 +29,11 @@ You can access more specifications by clicking [here](https://github.com/Alberto
 | port() | Returns the port where the sensor is installed | None
 
 ## How to install the library
-**1 - Click on Code**
+**1 - Click on "Code"**
 
 ![1 - Click on Code.png](https://github.com/AlbertoBruno1265/LM35-Library-for-Arduino/blob/main/docs/How%20to%20Install/1%20-%20Click%20on%20Code.png)
 
-**2 - Click on Download ZIP**
+**2 - Click on "Download ZIP"**
 
 ![2 - Click on Download ZIP.png](https://github.com/AlbertoBruno1265/LM35-Library-for-Arduino/blob/main/docs/How%20to%20Install/2%20-%20Click%20on%20Download%20ZIP.png)
 
