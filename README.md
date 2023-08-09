@@ -1,7 +1,7 @@
 # LM35-Library-for-Arduino
 
 ## Abstract
-Library created to facilitate the use of the LM35 temperature sensor.
+Library created to facilitate the use of LM35 temperature sensor.
 
 ## Operation
 The LM35 temperature sensor has three pins: VCC(5V+), VOUT, GND.
