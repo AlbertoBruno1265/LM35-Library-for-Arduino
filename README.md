@@ -22,7 +22,7 @@ You can access more specifications by clicking [here](https://github.com/Alberto
 ## Methods
 | **Method**           | **Description**                                                                     | **Args**                                                                                                                                     |
 | :--------------- | :------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- |
-| average_temperature(int opt, int times) | Calculates the average temperature on some scale and at a given amount of times | **opt**: An integer number to represents the temperature scale(0: Celsius; 1: Fahrenheit; 2: Kelvin), **times**: The velue of temperature will be checked
+| average_temperature(int opt, int times) | Calculates the average temperature on some scale and at a given amount of times | **opt**: An integer number to represents the temperature scale(0: Celsius; 1: Fahrenheit; 2: Kelvin), **times**: The number of times that value of temperature will be checked
 | get_temp_c() | Gets the temperature in Celsius scale | None
 | get_temp_f() | Gets the temperature in Fahrenheit scale | None
 | get_temp_k() | Gets the temperature in Kelvin scale | None
